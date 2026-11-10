@@ -5,7 +5,7 @@ def sum(a, b): #test
 def sub(a, b): 
     return a - b
 
-
+# 곱하기 주석 추가
 def mul(a, b):
     return a * b
 
