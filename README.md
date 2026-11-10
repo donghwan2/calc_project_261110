@@ -16,6 +16,6 @@ return a + b
 - 박성훈
 - noii@kkokiyo.app
 
----
-
 고맙습니다 :)
+
+Thanks :)
