@@ -1,4 +1,4 @@
-def sum(a, b): # 더하기 주석 추가
+def sum(a, b): # 더하기 주석 입니다
     return a + b
 
 
