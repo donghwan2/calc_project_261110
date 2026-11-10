@@ -16,7 +16,7 @@ def div(a, b):
     else:
         return a / b
 
-
+# 제곱 입니다
 def square(a):
     return a**2
 
