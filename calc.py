@@ -24,4 +24,7 @@ def square(a):
 def print_hello():
     print("Hello, World!")
 
-    
+
+def print_bye():
+    print("bye")
+
