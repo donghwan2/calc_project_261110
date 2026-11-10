@@ -9,7 +9,7 @@ def sub(a, b):
 def mul(a, b):
     return a * b
 
-
+# 빼기 입니다
 def div(a, b):
     if b == 0:
         return 0
